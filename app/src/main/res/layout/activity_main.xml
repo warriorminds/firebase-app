@@ -11,21 +11,4 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.warriorminds.firebase.MainActivity">
 
-    <Button
-        android:id="@+id/btnCrearEmail"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/crear_cuenta_email_password" />
-
-    <Button
-        android:id="@+id/btnIniciarSesion"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/boton_iniciar_sesion" />
-
-    <Button
-        android:id="@+id/btnIniciarSesionGoogle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/iniciar_sesion_google" />
 </LinearLayout>
